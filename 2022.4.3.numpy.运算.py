@@ -3,7 +3,6 @@
 # @Author : yolo
 # @File : 2022.4.3.numpy.运算.py
 # @Software: PyCharm
-
 import numpy as np
 a=np.array([10,20,30,40])
 b=np.arange(4)
